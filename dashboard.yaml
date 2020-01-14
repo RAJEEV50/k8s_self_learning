@@ -161,4 +161,4 @@ spec:
     - port: 8443
       targetPort: 8443
   selector:
-    k8s-app: kubernetes-dashboardmaster $
+    k8s-app: kubernetes-dashboard
